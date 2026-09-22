@@ -1,4 +1,6 @@
 ## Requirements
+
+
 ## Goal
 
 We want to show the user how to stop_reason works within the Claude Agent SDK
