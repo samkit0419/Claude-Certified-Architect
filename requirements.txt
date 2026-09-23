@@ -1,1 +1,3 @@
 claude-agent-sdk
+anthropic
+python-dotenv
