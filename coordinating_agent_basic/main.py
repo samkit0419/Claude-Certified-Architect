@@ -27,7 +27,7 @@ from anthropic import AsyncAnthropic, DefaultAioHttpClient
 
 load_dotenv(Path(__file__).parent.parent / ".env")
 
-MODEL = "claude-haiku-4-5-20251001"
+MODEL = "claude-haiku-5-5"
 
 
 # ---------------------------------------------------------------------------

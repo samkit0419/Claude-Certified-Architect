@@ -41,7 +41,7 @@ load_dotenv(Path(__file__).parent.parent / ".env")
 logging.basicConfig(level=logging.INFO, format="%(message)s")
 log = logging.getLogger("decomposition_demo")
 
-MODEL = "claude-haiku-4-5-20251001"
+MODEL = "claude-haiku-5-5"
 MAX_STEPS = 6
 
 CUSTOMER_MESSAGE = (
